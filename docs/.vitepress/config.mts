@@ -60,7 +60,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/c-ppvr/artery' }
+      { icon: 'github', link: 'https://github.com/c-ppvr/artery' },
+      { icon: 'discord', link: 'https://discord.gg/tMebDH4nJZ' }
     ]
   },
   locales: {
