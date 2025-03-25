@@ -4,28 +4,20 @@ layout: home
 
 hero:
   name: Artery Docs
-  text: "the docs of the mod Artery\nfor the mod loader Fabric\nfor the hit game Minecraft"
-  tagline: wow, this is truly organic
+  tagline: "the docs\nof the mod Artery\nfor the mod loader Fabric\nfor the hit game Minecraft"
   image:
     src: /icon.png
     alt: Artery
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
   - icon : 🫀
-    title: 100% Organic!
-    details: So called "Organ Blocks", 0% AI generated code, and 0% AI generated texture!
-  - icon: ❤️‍🔥
-    title: Game Changer!
-    details: I literally added a new powerful game mechanic! Some might even argue that it's "overpowered" or "unbalanced"!
-  - icon: "⚔️"
-    title: Interesting Items!
-    details: Unique ores and armors that you wouldn't see in other mods!
+    title: Player Guides
+    details: Here's where most of the thing you'll need to know about this mod!
+    link: /guides/
+  - icon: 💖
+    title: Developer Guides
+    details: I don't know why anyone would want to do this but here are (or will be) some useful information.
+    link: /devs
 ---
 
+I referenced <https://docs.fabricmc.net/> for this page BTW.
