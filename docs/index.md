@@ -6,7 +6,7 @@ hero:
   name: Artery Docs
   tagline: "the docs\nof the mod Artery\nfor the mod loader Fabric\nfor the hit game Minecraft"
   image:
-    src: /icon.png
+    src: /icon4x.png
     alt: Artery
 
 features:

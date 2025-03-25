@@ -5,6 +5,9 @@ export default defineConfig({
   lang: 'en-us',
   title: 'Artery Docs',
   description: 'the docs of the mod Artery for the mod loader Fabric for the hit game Minecraft',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', sizes: '128x128', href: '/icon.png'}]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon.png',
