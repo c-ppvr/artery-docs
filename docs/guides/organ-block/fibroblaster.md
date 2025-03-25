@@ -19,7 +19,7 @@ A fibroblater can be mined using any hoe. If mined without a hoe, it only drops 
 
 ### Crafting
 
-A fibroblaster can be crafted with 6 [flesh](../misc-items/#flesh), 2 [thrombium ingots](../ores/thrombium) and 1 diamond.
+A fibroblaster can be crafted with 6 [flesh](../misc-items/#flesh), 2 [thrombium ingots](../ores/thrombium), and 1 diamond.
 
 ## Usage
 
