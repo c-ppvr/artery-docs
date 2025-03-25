@@ -16,7 +16,7 @@ They also gain sanguinity by eating certain types of food, mostly meat.
 
 Players will automatically spend $C$ sanguinity to restore 1 health if they are injured, where $C$ denotes [coagulation rate](#coagulation-rate).
 
-Sanguinity can be stored in [organ groups](./organ-block#organ-group) to power [organ blocks](./organ-block).
+Sanguinity can be stored in [organ groups](./organ-block/index.md#organ-group) to power [organ blocks](./organ-block/index.md).
 
 ## Transfusion Rate
 

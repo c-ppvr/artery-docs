@@ -31,9 +31,9 @@ A ventricle infuses items at a constant rate of 1 sanguinity every 5 ticks, but 
 
 ::: details All Infusion Recipes
 
-| Input        | Cost | Result       |
-| ------------ | ---- | -----------  |
-| Bone         | 10   | Rotten Flesh |
-| Rotten Flesh | 25   | Flesh        |
+| Input        | Cost | Result                        |
+| ------------ | ---- | ----------------------------- |
+| Bone         | 10   | Rotten Flesh                  |
+| Rotten Flesh | 25   | [Flesh](../misc-items/#flesh) |
 
 :::
