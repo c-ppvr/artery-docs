@@ -12,7 +12,7 @@ hero:
 features:
   - icon : 🫀
     title: Player Guides
-    details: Here's most of the things you'll need to know about this mod!
+    details: Here are most of the things you'll need to know about this mod!
     link: /guides/
   - icon: 💖
     title: Developer Guides
