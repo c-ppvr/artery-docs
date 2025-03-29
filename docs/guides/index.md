@@ -1,7 +1,7 @@
 # Guides
 
 ::: info
-These pages only document the latest version of Artery (v0.2.1+1.21.4).
+These pages only document the latest version of Artery (v0.3.1+1.21.5).
 :::
 
 This feels more like a wiki than a guide, but by definition this isn't a wiki.
