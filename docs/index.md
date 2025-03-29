@@ -12,11 +12,11 @@ hero:
 features:
   - icon : 🫀
     title: Player Guides
-    details: Here's where most of the thing you'll need to know about this mod!
+    details: Here's most of the things you'll need to know about this mod!
     link: /guides/
   - icon: 💖
     title: Developer Guides
-    details: I don't know why anyone would want to do this but here are (or will be) some useful information.
+    details: If you want to develop something with Artery, here is (or will be) some useful information.
     link: /devs
 ---
 
